@@ -1,16 +1,14 @@
-### Hi there 👋
+## Welcome to my page! 
 
-<!--
-**igorluis-actuary/igorluis-actuary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Igor and i'm a actuary from Brazil and these are the things I like:
 
-Here are some ideas to get you started:
+* **Machine learning;
+* **Stock Market;
+* **Insurance and statistics modelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Besides that i, like to read books, play some games and the guitar. 
+
+Currently i'm a postgraduate student in machine learning and artificial intelligence at the PUC - Minas. 
+I'm working at G-Sin a risk management startup.
+
+On this github i will post some projects about financial market, statistics modelling and machine learning.
